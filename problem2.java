@@ -1,6 +1,6 @@
 //LRU Cache
 //Time Complexity: O(1)
-//Space Complexity:O(D)
+//Space Complexity:O(capacity)
 
 class Node{
     int val;
